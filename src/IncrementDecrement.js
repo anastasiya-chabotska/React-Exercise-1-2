@@ -21,8 +21,10 @@ class IncrementDecrement extends Component {
 
   decrement = () => {
     if (this.state.num === 0) alert("Cannot be less than zero");
-    let i = this.state.num - 1;
-    this.setState({ num: i });
+    else {
+      let i = this.state.num - 1;
+      this.setState({ num: i });
+    }
   };
 
   render() {
