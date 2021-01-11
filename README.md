@@ -15,3 +15,5 @@ Exercise # 2 - Increment-Decrement
 -“Decrement” should decrease the number by 1
 -When the number reaches zero, clicking on “Decrement” should show an alert to the user stating “Cannot be less than zero” and not decrement into less than zero
 
+View at https://anastasiya-chabotska.github.io/React-Exercise-1-2/
+
